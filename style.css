@@ -5,9 +5,9 @@ body {
 }
 
 div.attribution {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
-div.container {
+main.QRcontainer {
     display: flex;
     justify-content: center;
     align-items: center;
